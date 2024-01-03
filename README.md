@@ -35,20 +35,52 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+![Screenshot 2024-01-03 025323](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/1007301e-194d-4df4-9274-d789db2f0847)
+
+
+![Screenshot 2024-01-03 025332](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/083d61b7-860c-4a06-8e41-18b8df38acbd)
+
+
+
+Developed by: shalini venkatesulu
+RegisterNumber:23001992  
 */
 
-## Output:
 
 ## Truthtable
 
+![Screenshot 2024-01-03 025340](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/5edac855-25c1-43d8-b044-ac37399437c5)
 
 
-##  RTL realization
+
+![Screenshot 2024-01-03 025347](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/70b5c564-bb9d-42f3-88ce-5dd3b68a0f62)
 
 
-## Timing diagram 
+
+
+
+
+##  RTL 
+
+
+![Screenshot 2024-01-03 025354](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/0d21edda-14e3-46db-8e03-f32fc9789770)
+
+
+![Screenshot 2024-01-03 025403](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/45a737c6-0dff-4fe5-be56-a59e801dfccd)
+
+
+
+
+## output
+
+![Screenshot 2024-01-03 025411](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/2f6d8207-076b-4c4d-91d7-0e7de2a58a1e)
+
+
+![Screenshot 2024-01-03 025421](https://github.com/shalini170/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151901983/149c527d-4090-4279-b79e-6f75a8aa8fba)
+
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
